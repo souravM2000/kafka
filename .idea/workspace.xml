@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c356259-d20a-40cc-8957-81ecdbc53ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/server.properties" afterDir="false" />
-    </list>
+    <list default="true" id="2c356259-d20a-40cc-8957-81ecdbc53ec2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2jFjIECLzdtEczSzjDqgV42Ge3h" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,7 +24,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/KafkaRender",
     "node.js.detected.package.eslint": "true",
@@ -54,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720989636807</updated>
       <workItem from="1720989637943" duration="1808000" />
+      <workItem from="1722710565908" duration="2430000" />
     </task>
     <servers />
   </component>
